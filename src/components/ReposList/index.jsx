@@ -40,7 +40,7 @@ const ReposList = ({ nomeUsuario }) => {
                 </li>
             ))}
         </ul>
-        )}       
+        )}
         </div>
     )
 }
